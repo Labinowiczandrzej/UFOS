@@ -141,7 +141,7 @@ function updateFilters() {
     let inputID = inputElement.attr("id");
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/1.3.JPG?raw=true)
+
 
 
 
@@ -168,7 +168,7 @@ function updateFilters() {
   }
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/1.4.JPG?raw=true)
+
 
 
 
@@ -201,7 +201,7 @@ function updateFilters() {
   }
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/1.5.JPG?raw=true)
+
 
 
 
@@ -290,7 +290,6 @@ function filterTable(obj) {
   buildTable(tableData);
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/2.1.JPG?raw=true)
 
 
 
@@ -385,28 +384,4 @@ After clear table, you may see our default data,
 
 
 
-3. **Summary:** In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
-
-> Drawback:
-
-During the project we realized that we needed to publicly expose the information, so it was necessary to use GitHub Pages to bring everything in one place.
-
-> Recommendations:
-
-
-1. **GitHub Pages - Website Presentation**
-Please use the following [`GitHub Pages`](https://pages.github.com/), for more information on how to use IO pages. 
-
-2. **Create a better `HTML`, `CSS`, and `JavaScript` Work interaction that feed UFOs data from most concise and automate workload**
-
-For our best data presentation and most concise introduction to UFO information, we highly recommend UFO summaries. These fact-filled summaries provide revealing UFO information from dozens of government, military, and intelligence witnesses with impeccable credentials, that involves M.D. and former ER director, Dr. Steven M. Greer, has compiled videotaped testimony of astronauts, generals, professors, and highly respected government officials who reveal their direct experiences in the UFO cover-up. 
-
-Including live testimonies were transcribed and published in the highly revealing Data. 
-
-
-
-# Deliverable 3 (EXTRA): 
-## UFOs IO Page on GitHub
-
-Hope you enjoy the site.
