@@ -116,7 +116,7 @@ function updateFilters() {
     let inputElement = d3.select(this);
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/1.2.JPG?raw=true)
+![name-of-you-image]((https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/Screenshot%20(38).png))
 
 
 
@@ -356,31 +356,29 @@ Let’s begin reviewing our HTML Filter and Table code.
 From our Website (Project Example:) [`https://www.UFOs.gov`](https://emmanuelmartinezs.github.io/UFOs/). 
 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/W1.JPG?raw=true)
+![name-of-you-image]((https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/Screenshot%20(39).png))
 
 Need to visit FILTER SEARCH 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/W2.JPG?raw=true)
+![name-of-you-image]((https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/Screenshot%20(37).png))
 
 On filter criteria, you can search by "Shape" only if want, example: triangle
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/W3.JPG?raw=true)
+![name-of-you-image]((https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/Screenshot%20(40).png))
 
 And click on "Filter Table" button,
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/W4.JPG?raw=true)
 
 Automatically your search criteria will appear in our dynamic table resource.  
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/W5.JPG?raw=true)
+![name-of-you-image]((https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/resized%20first%20image.png))
 
 And, if want to start a new search, just click on "Clear Table" button, and start a new search.
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/W6.JPG?raw=true)
+
 
 After clear table, you may see our default data, 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/W7.JPG?raw=true)
 
 
 
