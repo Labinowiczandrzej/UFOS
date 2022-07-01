@@ -116,7 +116,7 @@ function updateFilters() {
     let inputElement = d3.select(this);
 ````
 
-![name-of-you-image]((https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/Screenshot%20(38).png))
+![name-of-you-image](https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/Screenshot%20(38).png)
 
 
 
@@ -356,22 +356,22 @@ Let’s begin reviewing our HTML Filter and Table code.
 From our Website (Project Example:) [`https://www.UFOs.gov`](https://emmanuelmartinezs.github.io/UFOs/). 
 
 
-![name-of-you-image]((https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/Screenshot%20(39).png))
+![name-of-you-image](https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/Screenshot%20(39).png)
 
 Need to visit FILTER SEARCH 
 
-![name-of-you-image]((https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/Screenshot%20(37).png))
+![name-of-you-image](https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/Screenshot%20(37).png)
 
 On filter criteria, you can search by "Shape" only if want, example: triangle
 
-![name-of-you-image]((https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/Screenshot%20(40).png))
+![name-of-you-image](https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/Screenshot%20(40).png)
 
 And click on "Filter Table" button,
 
 
 Automatically your search criteria will appear in our dynamic table resource.  
 
-![name-of-you-image]((https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/resized%20first%20image.png))
+![name-of-you-image](https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/resized%20first%20image.png)
 
 And, if want to start a new search, just click on "Clear Table" button, and start a new search.
 
