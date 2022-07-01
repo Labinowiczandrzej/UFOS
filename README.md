@@ -12,7 +12,7 @@
 ### Deliverable Requirements:
 Using JavaScript and HTML, you’ll modify the code in your `index.html` file to create more table filters. In addition to the date filter you created in this module, you’ll add filters for the city, state, country, and shape, as shown in the following image:
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/s1.png?raw=true)
+![name-of-you-image](https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/resized%20first%20image.png)
 
 Using JavaScript, you’ll replace the handleClick() function in your app.js file with a new function that saves the element, value, and id of the filter that was changed. Then, you’ll create a new function to loop through the dataset and keep only the results that match the search criteria. The webpage will be updated with the search criteria after pressing "Enter".
 
@@ -93,7 +93,7 @@ Using JavaScript, you’ll replace the handleClick() function in your app.js fil
           </div>
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/1.1.JPG?raw=true)
+![name-of-you-image](https://github.com/Labinowiczandrzej/UFOS/blob/main/Screenshots/Screenshot%20(37).png)
 
 
 
